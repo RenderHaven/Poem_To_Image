@@ -1,0 +1,39 @@
+# =========================
+# CORE
+# =========================
+torch
+torchvision
+accelerate
+transformers
+huggingface_hub
+safetensors
+
+# =========================
+# DIFFUSION / FLUX
+# =========================
+diffusers @ git+https://github.com/huggingface/diffusers.git
+peft
+einops
+
+# =========================
+# IMAGE + VISION
+# =========================
+Pillow
+opencv-python-headless
+numpy
+scipy
+tqdm
+
+
+
+# =========================
+# DATA / UTILS
+# =========================
+pandas
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+os
+
+
